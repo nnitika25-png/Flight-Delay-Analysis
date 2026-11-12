@@ -26,11 +26,8 @@ This project analyzes flight punctuality at Los Angeles International Airport (L
 ![Flight_Delay_time_Analysis](images/Flight_Delay_time_Analysis.png)
 
 ## 🔗 Links
-## Live Dashboard
 
-View the interactive Power BI dashboard here:
-
-[Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=c0eefca2-c2ef-4a02-b12d-ff80c69705d6&autoAuth=true&ctid=a0668a0b-7f14-4396-ad4d-0ebf06457115)
+- 📁 **Live Dashboard:** [Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=c0eefca2-c2ef-4a02-b12d-ff80c69705d6&autoAuth=true&ctid=a0668a0b-7f14-4396-ad4d-0ebf06457115)
 
 - 📁 **PBIX File:** [Download Nitika_Abrol_FinalProject.pbix](https://1drv.ms/u/c/b4a8075ef12c0fc4/IQDS6NgStjL_QJLJKk5ljqnzAYRIa0T-MeDcj4Fd9Ax7Iv8?e=RAdoLk)
 
