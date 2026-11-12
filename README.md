@@ -76,12 +76,6 @@ The dashboard highlights both periods with the highest number of delayed flights
 - KPI Development
 - Data Visualization
 
-## Dashboard
-
-🔗 **Power BI Report:**
-
-[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/c0eefca2-c2ef-4a02-b12d-ff80c69705d6/3d8b9d111e3eb29fe2b1?experience=power-bi)
-
 ## Key Skills Demonstrated
 
 - Data Extraction with SQL
