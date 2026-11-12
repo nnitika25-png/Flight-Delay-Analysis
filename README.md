@@ -11,6 +11,25 @@ This project analyzes flight punctuality at Los Angeles International Airport (L
 - Identify periods with the highest delay frequency and delay rates.
 - Build an interactive Power BI dashboard for exploring arrival and departure delays.
 
+## Dashboard Overview
+
+### Executive Summary
+![Executive Summary](images/executive_summary.png)
+
+### Airline Performance Analysis
+![Airline Performance](images/airline_performance.png)
+
+### Delay Trends by Time Period
+![Delay Trends](images/delay_trends.png)
+
+### Weekly and Hourly Analysis
+![Weekly Analysis](images/weekly_analysis.png)
+
+## Interactive Dashboard
+
+🔗 **Power BI Report:**  
+[View Dashboard](https://app.powerbi.com/groups/me/reports/c0eefca2-c2ef-4a02-b12d-ff80c69705d6/3d8b9d111e3eb29fe2b1?experience=power-bi)
+
 ## Data Preparation
 
 The data was extracted using SQL and transformed in Power BI. Key preparation steps included:
