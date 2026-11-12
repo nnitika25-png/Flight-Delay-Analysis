@@ -14,16 +14,16 @@ This project analyzes flight punctuality at Los Angeles International Airport (L
 ## Dashboard Overview
 
 ### Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Overview](images/Overview.png)
 
 ### Airline Performance Analysis
-![Airline Performance](images/airline_performance.png)
+![Share_of_delayed_flights_by_each_airline](images/Share_of_delayed_flights_by_each_airline.png)
 
 ### Delay Trends by Time Period
-![Delay Trends](images/delay_trends.png)
+![Highest_Average_unpunctuality](images/Highest_Average_unpunctuality.png)
 
 ### Weekly and Hourly Analysis
-![Weekly Analysis](images/weekly_analysis.png)
+![Flight_Delay_time_Analysis](images/Flight_Delay_time_Analysis.png)
 
 ## Interactive Dashboard
 
